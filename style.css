@@ -1,0 +1,44 @@
+/********************************TAGSELECTORS*************************/
+body{
+  background-color: white;
+  text-align: center;
+
+}
+hr{
+  border-width: 5px;
+  border-color: gray;
+  border-style: none;
+  border-top-style:dotted;
+  width:5%;
+
+}
+table{
+  align: center;
+}
+img{
+  border-radius: 300px;
+  width:200px;
+  background-color: red;
+  margin:10px;
+}
+h1,h3{
+  color:lightblue;
+  font-size:30px;
+}
+form{
+  background-color: lightblue;
+  text-align: center;
+  border: 1px black solid;
+  margin:10px;
+
+}
+a{
+  font-size: 19px;
+  text-decoration:none;
+  color: blue;
+  border: dotted green 2px
+}
+/*** ****************************CLASS-SELECTORS*****************************/
+.tree{
+  background-color: yellow ;
+}
